@@ -4,3 +4,5 @@ Source : https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css
          https://discordstyles.github.io/Addons/windows-titlebar.css
 
 I'm just testing some new things
+
+(I'm not the owner dont ask)
